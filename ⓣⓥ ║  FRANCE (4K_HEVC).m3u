@@ -1,0 +1,141 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",•●★--- FR | FRANCE 4K/HEVC | FR ---★●•
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47555&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | TF1 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47474&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | FRANCE 2 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47475&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | FRANCE 3 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47476&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | FRANCE 4 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47477&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | FRANCE 5 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47478&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | M6 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47479&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | ARTE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47480&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",•●★---|FR| CH. CANAL+ 4K/HEVC |FR|---★●•
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216953&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CANAL+ |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216688&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CANAL+ CINEMA |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47506&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CANAL+ FOOT |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216660&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CANAL+ SPORT |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47509&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CANAL+ PREMIER LEAGUE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216645&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CANAL+ DOCS |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216661&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CANAL+ KIDS |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216662&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CANAL+ GRAND ÉCRAN |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216663&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",•●★-----|FR| CINEMA 4K/HEVC |FR|-----★●•
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216952&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CINÉ+ CLASSIC |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216659&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CINE+ PREMIER |4K|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47520&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CINE+ EMOTION |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47519&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CINE+ FAMIZ |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47532&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CINE+ CLASSIC |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47533&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CINE+ FRISSON |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47516&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | TCM CINEMA |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216780&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | ACTION |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47518&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | COMEDY CENTRAL FRANCE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216783&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",•●★---|FR| CANAL PLAY 4K/HEVC |FR|---★●•
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216950&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",•●★-|FR| DIVERTISSEMENT HEVC|FR|-★●•
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216951&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | COMEDIE+ |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216782&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | 13 EME RUE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216655&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | POLAR+ |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216785&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | SYFY |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216772&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | WARNER TV |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47546&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | MTV FRANCE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216779&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | E! ENTERTAINMENT |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216777&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | MCM TOP |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47526&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | GONG |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216651&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | GONG MAX |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216650&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | MANGAS |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216730&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | AB1 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216773&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | AB3 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216709&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | TV BREIZH |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216775&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | TEVA |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47521&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | PARIS PREMIERE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216784&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | RTL9 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47496&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | W9 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47481&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | TMC |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47494&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | TFX |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47492&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | NRJ12 |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47491&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | CSTAR |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47484&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | TF1 SERIES FILMS |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47493&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | 6TER |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47495&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | RMC STORY |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47497&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | TV5 MONDE FBS |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216736&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",•●★--|FR| STYLE DE VIE HEVC|FR|--★●•
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216946&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | MYZEN FIT |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216684&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | MYZEN NATURE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216683&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",•●★---|FR| DECOUVERTE 4K/HEVC |FR|---★●•
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216949&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | PLANETE+ |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47534&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | PLANETE+ AVENTURE|HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47541&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | PLANETE + CRIME |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47542&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | DISCOVERY |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47535&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | DISCOVERY INVES |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47538&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | NATIONAL GEO CHANNEL |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47523&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | NAT GEO WILD |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47511&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | USHUAIA |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47540&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | HISTOIRE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216728&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | TOUTE L HISTOIRE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47490&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE (4K/HEVC)",FR | SCIENCES&VIE |HEVC|
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=47544&extension=ts

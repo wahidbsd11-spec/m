@@ -1,0 +1,79 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",•●★---|FR| ONDEMAND CINEMA FRANCE |FR|---★●•
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216398&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | LES SEIGNEURS DES ANNEAUX
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216432&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | HARRY POTTER (MULTI)
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216397&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | TOP CINEMA JAMES BOND
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216394&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | TOP CINEMA UNDERWORLD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216395&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | TOP CINEMA ROCKY
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216396&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SAGAS 7/24
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=287819&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | LEONARDO DiCAPRIO 24/7
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232789&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | MORGAN FREEMAN 24/7
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232788&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | KEANU REEVES 24/7
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232787&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | TERENCE HILL  24/7
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232786&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | TOM CRUISE  24/7
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232785&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | WILL SMITH 24/7-
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232784&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | BRAD PITT 24/7-
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232783&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | DENZEL WASHINGTON 24/7
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232782&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | BREFCINEMA
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232775&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | RUNTIME
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232774&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | WILD SIDE TV
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232773&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | PIRATES DES CARAÏBES (24/7)
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232772&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SCREAM'IN
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232771&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | RESIDENT EVIL (24/7)
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232770&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | CINE PRIME
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=232769&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | AVENGERS (24/7)
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402686&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | MISSION IMPOSSIBLE (LIVE)
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402736&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPIDER-MAN (24/7)
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402735&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | LES GRIFFIN (FAMILY GUY) (24/7)
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402734&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | FAST AND FURIOUS (LIVE)
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402732&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | STAR WARS (LIVE)
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402731&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",•●★---|FR| SPECTRUM FRANCE |FR|---★●•
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=216399&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM FREE MOVIES HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13949&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM TOP HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13947&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM KIDS HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13946&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM COMEDY HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13945&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM HORROR HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13954&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM ADVENTURE HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13953&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM ROMANCE HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13952&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM FICTION HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13951&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM FILM MUSICAL HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13950&extension=ts
+#EXTINF:-1 group-title="ⓣⓥ ║  FRANCE CINEMA ONDEMAND",FR | SPECTRUM 10 HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=13948&extension=ts
