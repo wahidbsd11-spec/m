@@ -1,4 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="ALWAN",ALWAN
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
-
+EXTM3U
+#EXTINF:-1 group-title="BEIN",BEIN match
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/beinmatchserver.m3u
